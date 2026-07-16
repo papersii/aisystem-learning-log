@@ -1,0 +1,9 @@
+vector_add
+sgemm
+sgemm_smem
+bank_conflict
+sgemm_blocktile
+sgemm_sweep
+*.o
+*.log
+.DS_Store
